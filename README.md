@@ -1,2 +1,2 @@
 # Testing
-for learning git
+for learning purpose
